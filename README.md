@@ -1,1 +1,24 @@
-# Govathon
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interface d'Accueil des Chauffeurs</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="app.js"></script>
+    <!-- Importer les SDK Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.14.0/firebase-database.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.14.0/firebase-storage.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Accueil</h1>
+    </header>
+    <main>
+        <div id="drivers-list">
+            <!-- Les données des chauffeurs seront insérées ici -->
+        </div>
+    </main>
+</body>
+</html>
