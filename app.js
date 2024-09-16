@@ -1,13 +1,13 @@
 // Configuration Firebase
 const firebaseConfig = {
     apiKey: "AIzaSyA1-UsNJbpG_zY0qYY0l2fDRVVVC_rQTuQ",
-            authDomain: "safe-route-tech.firebaseapp.com",
-            databaseURL: "https://safe-route-tech.firebaseio.com/",
-            projectId: "safe-route-tech",
-            storageBucket: "safe-route-tech.appspot.com",
-            messagingSenderId: "819049700031",
-            appId: "1:819049700031:web:f8a81410a573bf29b8440a",
-            measurementId: "G-GGTTVCB57H"
+    authDomain: "safe-route-tech.firebaseapp.com",
+    databaseURL: "https://safe-route-tech-default-rtdb.firebaseio.com",
+    projectId: "safe-route-tech",
+    storageBucket: "safe-route-tech.appspot.com",
+    messagingSenderId: "819049700031",
+    appId: "1:819049700031:web:81c08e802403197db8440a",
+    measurementId: "G-8WPRJYHT2S"
 };
 
 // Initialiser Firebase
